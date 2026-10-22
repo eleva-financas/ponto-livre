@@ -12,6 +12,7 @@
 |---|---|---|
 | Felipe Nascimento | `Felipemevel` | `felpszito` |
 | Gustavo Jácome | `gustavofjacome` | `gutziron` |
+| Wedson Gabriel | `WedsonGabriel` | `insanemonster7` |
 
 > Descrever as formas de contato da equipe - WhatsApp, Discord, etc.
 
