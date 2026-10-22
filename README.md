@@ -8,8 +8,11 @@
 
 # Equipe e Formas de Contato
 
-1. Nome...
-2. Nome...
+| Integrante | **GitHub** <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> | **Discord** <img src="https://cdn.simpleicons.org/discord" width="16" valign="middle"> |
+|---|---|---|
+| Felipe Nascimento | `Felipemevel` | `felpszito` |
+| Gustavo Jácome | `gustavofjacome` | `gutziron` |
+| Wedson Gabriel | `WedsonGabriel` | `insanemonster7` |
 
 > Descrever as formas de contato da equipe - WhatsApp, Discord, etc.
 
@@ -19,7 +22,12 @@
 
 # Documentação
 
-[Link para os documentos do projeto](doc/documentacao.md)
+1. [Link para os documentos do projeto](doc/documentacao.md)
+1. [Documento de Visão](doc/visao/doc-visao.md)
+1. [Protótipos de Interface com o Usuário](doc/prototipos/prototipos.md)
+1. [Modelo de Casos de Uso](doc/cdu/cdu.md)
+1. [Modelo de Domínio](doc/dominio/dominio.md)
+1. [Modelo de Dados](doc/bd/bd.md)
 
 # Manual da Desenvolvedor
 
