@@ -8,8 +8,10 @@
 
 # Equipe e Formas de Contato
 
-1. Nome...
-2. Nome...
+| Integrante | **GitHub** <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> | **Discord** <img src="https://cdn.simpleicons.org/discord" width="16" valign="middle"> |
+|---|---|---|
+| Felipe Nascimento | `Felipemevel` | `felpszito` |
+| Gustavo Jácome | `gustavofjacome` | `gutziron` |
 
 > Descrever as formas de contato da equipe - WhatsApp, Discord, etc.
 
